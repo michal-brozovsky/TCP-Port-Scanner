@@ -1,4 +1,4 @@
-# Network Vulnerability Scanner
+# TCP Port Scanner
 
 A lightweight Python tool for identifying potentially vulnerable open ports on local networks. Designed for quick auditing of corporate IT environments.
 
